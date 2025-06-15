@@ -1,0 +1,13 @@
+.landing {
+  padding: 2rem;
+  text-align: center;
+  background: url('/hero-books.jpg') center/cover no-repeat;
+  color: #fff;
+}
+.landing h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+.landing p {
+  font-size: 1.25rem;
+}

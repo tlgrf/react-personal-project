@@ -1,0 +1,13 @@
+.admin-portal {
+  padding: 2rem;
+  color: #fff;
+}
+.admin-portal h2 {
+  margin-bottom: 1rem;
+}
+.admin-portal nav a {
+  margin-right: 1rem;
+  color: #d4af37; /* gold accent */
+  text-decoration: none;
+  font-weight: bold;
+}

@@ -1,0 +1,152 @@
+{
+  "store_info": [
+    {
+      "id": "1",
+      "name": "Bookshop",
+      "description": "Your local haven to find the perfect accessory for your performative-reading-Instagram-photodump.",
+      "phone_number": "555-BOOKS"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "price": 14.99,
+      "description": "A fantasy classic about Bilbo's adventures."
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "price": 12.5,
+      "description": "A chilling depiction of totalitarianism."
+    },
+    {
+      "id": "3",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic",
+      "price": 13.75,
+      "description": "A novel of racial injustice in the Deep South."
+    },
+    {
+      "id": "4",
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "genre": "Fantasy",
+      "price": 15,
+      "description": "Kvothe's journey in a richly woven world."
+    },
+    {
+      "id": "5",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "Non-Fiction",
+      "price": 18.99,
+      "description": "A brief history of humankind."
+    },
+    {
+      "id": "6",
+      "title": "The Waves",
+      "author": "Virginia Woolf",
+      "genre": "Modernist",
+      "price": 16,
+      "description": "A stream-of-consciousness novel following six friends from childhood to old age."
+    },
+    {
+      "id": "7",
+      "title": "Book of Disquiet",
+      "author": "Fernando Pessoa",
+      "genre": "Philosophical",
+      "price": 17.5,
+      "description": "An introspective collection of fragments and observations by Bernardo Soares."
+    },
+    {
+      "id": "8",
+      "title": "My Year of Rest and Relaxation",
+      "author": "Ottessa Moshfegh",
+      "genre": "Contemporary",
+      "price": 13.5,
+      "description": "A darkly comic novel about a year-long experiment in self-induced hibernation."
+    },
+    {
+      "id": "9",
+      "title": "The Hour of the Star",
+      "author": "Clarice Lispector",
+      "genre": "Literary Fiction",
+      "price": 12,
+      "description": "A meditation on poverty and identity through the eyes of a young Brazilian girl."
+    },
+    {
+      "id": "10",
+      "title": "Demian",
+      "author": "Hermann Hesse",
+      "genre": "Bildungsroman",
+      "price": 14.5,
+      "description": "A coming-of-age tale exploring the dualities of human nature."
+    },
+    {
+      "id": "11",
+      "title": "No Longer Human",
+      "author": "Osamu Dazai",
+      "genre": "Japanese Literature",
+      "price": 11.5,
+      "description": "A haunting portrayal of alienation and despair."
+    },
+    {
+      "id": "12",
+      "title": "Flowers of Evil",
+      "author": "Charles Baudelaire",
+      "genre": "Poetry",
+      "price": 18,
+      "description": "A landmark 19th-century collection exploring beauty, decadence, and sin."
+    },
+    {
+      "id": "13",
+      "title": "A Season in Hell",
+      "author": "Arthur Rimbaud",
+      "genre": "Poetry",
+      "price": 17,
+      "description": "An experimental poetic manifesto on suffering and transcendence."
+    },
+    {
+      "id": "f873",
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological ",
+      "price": 20.35,
+      "description": "“The Idiot” by Dostoevsky follows Prince Myshkin, a guileless and compassionate young man whose Christ-like innocence both illuminates and ultimately unravels the moral corruption of St. Petersburg society."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@example.com"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 1,
+      "bookId": 2,
+      "quantity": 1,
+      "date": "2025-06-15"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "bookId": 5,
+      "quantity": 2,
+      "date": "2025-06-16"
+    }
+  ]
+}
