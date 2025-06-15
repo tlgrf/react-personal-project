@@ -2,10 +2,10 @@
 A React SPA admin portal for "Bookshop". Manage store info and books via a mock JSON API.
 
 ## Table of Contents
-1-[Demo](#demo)
-2-[Setup](#setup)
-3-[Testing](#testing)
-4-[Features](#features)
+1. [Demo](#demo)
+2. [Setup](#setup)
+3. [Testing](#testing)
+4. [Features](#features)
 
 
 ## Demo
